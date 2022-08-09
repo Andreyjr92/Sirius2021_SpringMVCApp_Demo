@@ -9,6 +9,7 @@ To change this template use File | Settings | File Templates.
 <html>
 <head>
     <title>Goodbay page<</title>
+    <P>The time on the server is ${serverTime}.</p>
 </head>
 <body>
 
